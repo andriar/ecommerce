@@ -6,6 +6,7 @@
 -   run `npm install`
 -   run `sudo cp .env.example .env`
 -   create database name same as on env
+-   before run this project, import this ./sql/init.sql to your database.
 -   run `php artisan key:generate`
 -   run `php artisan passport:install`
 -   run `php artisan migrate`
