@@ -2,14 +2,14 @@
 
 ## Get Started
 
--   `composer install`
--   `npm install`
--   `sudo cp .env.example .env`
+-   run `composer install`
+-   run `npm install`
+-   run `sudo cp .env.example .env`
 -   create database name same as on env
--   `php artisan key:generate`
--   `php artisan passport:install`
--   `php artisan migrate`
--   `php artisan serve`
+-   run `php artisan key:generate`
+-   run `php artisan passport:install`
+-   run `php artisan migrate`
+-   run `php artisan serve`
 
 ## ROUTE LIST
 
